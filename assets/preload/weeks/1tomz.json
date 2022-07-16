@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"dark-moon",
+			"tomz",
+			[
+				146,
+				53,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "VS. TOMZ_",
+	"weekName": "VS.TOMZ_",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
