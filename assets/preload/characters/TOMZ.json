@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "idle",
+			"indices": [],
+			"name": "TOMZ idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "TOMZ left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "TOMZ down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singUP",
+			"indices": [],
+			"name": "TOMZ up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "TOMZ right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TOMZ",
+	"position": [
+		-220,
+		-270
+	],
+	"healthicon": "tomz",
+	"flip_x": false,
+	"healthbar_colors": [
+		121,
+		0,
+		255
+	],
+	"camera_position": [
+		130,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
